@@ -1,0 +1,207 @@
+//// [tests/cases/compiler/conflictMarkerJujutsuTrivia3.ts] ////
+
+=== conflictMarkerJujutsuTrivia3.ts ===
+class C {
+>C : C
+
+  foo() {
+>foo : () => void
+
+<<<<<<<<<<< conflict 1 of 2
+><<<<<<<<<<< conflict 1 : number
+><<<<<<<< : number
+><<<<<< : number
+><<<< : number
+><< : number
+> : any
+> : any
+> : any
+> : any
+> : any
+>< conflict 1 : conflict
+>1 : 1
+>of : any
+>2%%%%%%%%%%% diff : number
+>2%%%%%%%%%% : number
+>2%%%%%%%%% : number
+>2%%%%%%%% : number
+>2%%%%%%% : number
+>2%%%%%% : number
+>2%%%%% : number
+>2%%%% : number
+>2%%% : number
+>2%% : number
+>2% : number
+>2 : 2
+
+%%%%%%%%%%% diff from: puqzxvrm 9be6077e "call c()"
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+>diff : any
+>from : any
+>puqzxvrm : any
+>9 : 9
+>be6077e : any
+>"call c()" : "call c()"
+
+\\\\\\\\\\\        to: lnqukurm 84b1da1d "call a()"
+>to : any
+>lnqukurm : any
+>84 : 84
+>b1da1d : any
+>"call a()"-     c() : number
+>"call a()" : "call a()"
+
+-     c();
+>c() : any
+>c : any
+
++     a();
+>+     a() : number
+>a() : any
+>a : any
+
++++++++++++ uxvuvmmx 71bb7e49 "call b()"
+>++ : number
+> : any
+>++ : number
+> : any
+>++ : number
+> : any
+>++ : number
+> : any
+>+++ uxvuvmmx : any
+>++ : number
+> : any
+>uxvuvmmx : any
+>71 : 71
+>bb7e49 : any
+>"call b()" : "call b()"
+
+     b();
+>b() : any
+>b : any
+
+>>>>>>>>>>> conflict 1 of 2 ends
+>>>>>>>>>>>> conflict : number
+>>>>>>>>>> : number
+>>>>>>> : number
+>>>> : number
+> : any
+> : any
+> : any
+> : any
+>conflict : any
+>1 : 1
+>of : any
+>2 : 2
+>ends : any
+  }
+
+<<<<<<<<<<< conflict 2 of 2
+><<<<<<<<<<< conflict 2 : number
+><<<<<<<< : number
+><<<<<< : number
+><<<< : number
+><< : number
+> : any
+> : any
+> : any
+> : any
+> : any
+>< conflict 2 : conflict
+>2 : 2
+>of : any
+>2%%%%%%%%%%% diff : number
+>2%%%%%%%%%% : number
+>2%%%%%%%%% : number
+>2%%%%%%%% : number
+>2%%%%%%% : number
+>2%%%%%% : number
+>2%%%%% : number
+>2%%%% : number
+>2%%% : number
+>2%% : number
+>2% : number
+>2 : 2
+
+%%%%%%%%%%% diff from: puqzxvrm 9be6077e "call c()"
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+> : any
+>diff : any
+>from : any
+>puqzxvrm : any
+>9 : 9
+>be6077e : any
+>"call c()" : "call c()"
+
+\\\\\\\\\\\        to: lnqukurm 84b1da1d "call a()"
+>to : any
+>lnqukurm : any
+>84 : 84
+>b1da1d : any
+>"call a()"+/*+=======+*/+++ : string
+>"call a()" : "call a()"
+
++/*
++=======
++*/
++
+>+++ : number
+
++++++++++++ uxvuvmmx 71bb7e49 "call b()"
+>++ : number
+> : any
+>++ : number
+> : any
+>++ : number
+> : any
+>++ : number
+> : any
+>+++ uxvuvmmx : any
+>++ : number
+> : any
+>uxvuvmmx : any
+>71 : 71
+>bb7e49 : any
+>"call b()"/*%%%%%%%*/>>>>>>>>>>> conflict : number
+>"call b()"/*%%%%%%%*/>>>>>>>>> : number
+>"call b()"/*%%%%%%%*/>>>>>> : number
+>"call b()"/*%%%%%%%*/>>> : number
+>"call b()" : "call b()"
+
+/*
+%%%%%%%
+*/
+
+>>>>>>>>>>> conflict 2 of 2 ends
+> : any
+> : any
+> : any
+>conflict : any
+>2 : 2
+>of : any
+>2 : 2
+>ends : any
+
+  public bar() { }
+>bar() : any
+>bar : any
+}
+

@@ -1,0 +1,428 @@
+conflictMarkerJujutsuTrivia3.ts(3,1): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(3,3): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(3,5): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(3,7): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(3,9): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(3,13): error TS2304: Cannot find name 'conflict'.
+conflictMarkerJujutsuTrivia3.ts(3,22): error TS1005: '>' expected.
+conflictMarkerJujutsuTrivia3.ts(3,24): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(3,24): error TS2304: Cannot find name 'of'.
+conflictMarkerJujutsuTrivia3.ts(4,2): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,3): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,4): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,5): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,6): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,7): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,8): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,9): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,10): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,11): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(4,13): error TS2304: Cannot find name 'diff'.
+conflictMarkerJujutsuTrivia3.ts(4,18): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(4,24): error TS1434: Unexpected keyword or identifier.
+conflictMarkerJujutsuTrivia3.ts(4,24): error TS2304: Cannot find name 'puqzxvrm'.
+conflictMarkerJujutsuTrivia3.ts(4,34): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(4,34): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+conflictMarkerJujutsuTrivia3.ts(4,34): error TS2304: Cannot find name 'be6077e'.
+conflictMarkerJujutsuTrivia3.ts(5,1): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,2): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,3): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,4): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,5): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,6): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,7): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,8): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,9): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,10): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,11): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(5,24): error TS1434: Unexpected keyword or identifier.
+conflictMarkerJujutsuTrivia3.ts(5,24): error TS2304: Cannot find name 'lnqukurm'.
+conflictMarkerJujutsuTrivia3.ts(5,35): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(5,35): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+conflictMarkerJujutsuTrivia3.ts(5,35): error TS2304: Cannot find name 'b1da1d'.
+conflictMarkerJujutsuTrivia3.ts(5,42): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.
+conflictMarkerJujutsuTrivia3.ts(6,7): error TS2552: Cannot find name 'c'. Did you mean 'C'?
+conflictMarkerJujutsuTrivia3.ts(7,7): error TS2304: Cannot find name 'a'.
+conflictMarkerJujutsuTrivia3.ts(8,3): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(8,5): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(8,7): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(8,9): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(8,11): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(8,13): error TS2304: Cannot find name 'uxvuvmmx'.
+conflictMarkerJujutsuTrivia3.ts(8,22): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(8,24): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(8,24): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+conflictMarkerJujutsuTrivia3.ts(8,24): error TS2304: Cannot find name 'bb7e49'.
+conflictMarkerJujutsuTrivia3.ts(9,6): error TS2304: Cannot find name 'b'.
+conflictMarkerJujutsuTrivia3.ts(10,1): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(10,4): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(10,7): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(10,10): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(10,13): error TS2304: Cannot find name 'conflict'.
+conflictMarkerJujutsuTrivia3.ts(10,22): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(10,24): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(10,24): error TS2304: Cannot find name 'of'.
+conflictMarkerJujutsuTrivia3.ts(10,29): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(10,29): error TS2304: Cannot find name 'ends'.
+conflictMarkerJujutsuTrivia3.ts(13,1): error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+conflictMarkerJujutsuTrivia3.ts(13,3): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(13,5): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(13,7): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(13,9): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(13,13): error TS2304: Cannot find name 'conflict'.
+conflictMarkerJujutsuTrivia3.ts(13,22): error TS1005: '>' expected.
+conflictMarkerJujutsuTrivia3.ts(13,24): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(13,24): error TS2304: Cannot find name 'of'.
+conflictMarkerJujutsuTrivia3.ts(14,2): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,3): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,4): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,5): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,6): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,7): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,8): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,9): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,10): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,11): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(14,13): error TS2304: Cannot find name 'diff'.
+conflictMarkerJujutsuTrivia3.ts(14,18): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(14,24): error TS1434: Unexpected keyword or identifier.
+conflictMarkerJujutsuTrivia3.ts(14,24): error TS2304: Cannot find name 'puqzxvrm'.
+conflictMarkerJujutsuTrivia3.ts(14,34): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(14,34): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+conflictMarkerJujutsuTrivia3.ts(14,34): error TS2304: Cannot find name 'be6077e'.
+conflictMarkerJujutsuTrivia3.ts(15,1): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,2): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,3): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,4): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,5): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,6): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,7): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,8): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,9): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,10): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,11): error TS1127: Invalid character.
+conflictMarkerJujutsuTrivia3.ts(15,24): error TS1434: Unexpected keyword or identifier.
+conflictMarkerJujutsuTrivia3.ts(15,24): error TS2304: Cannot find name 'lnqukurm'.
+conflictMarkerJujutsuTrivia3.ts(15,35): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(15,35): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+conflictMarkerJujutsuTrivia3.ts(15,35): error TS2304: Cannot find name 'b1da1d'.
+conflictMarkerJujutsuTrivia3.ts(20,3): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(20,5): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(20,7): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(20,9): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(20,11): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(20,13): error TS2304: Cannot find name 'uxvuvmmx'.
+conflictMarkerJujutsuTrivia3.ts(20,22): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(20,24): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(20,24): error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+conflictMarkerJujutsuTrivia3.ts(20,24): error TS2304: Cannot find name 'bb7e49'.
+conflictMarkerJujutsuTrivia3.ts(20,31): error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.
+conflictMarkerJujutsuTrivia3.ts(25,4): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(25,7): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(25,10): error TS1109: Expression expected.
+conflictMarkerJujutsuTrivia3.ts(25,13): error TS2304: Cannot find name 'conflict'.
+conflictMarkerJujutsuTrivia3.ts(25,22): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(25,24): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(25,24): error TS2304: Cannot find name 'of'.
+conflictMarkerJujutsuTrivia3.ts(25,29): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(25,29): error TS2304: Cannot find name 'ends'.
+conflictMarkerJujutsuTrivia3.ts(26,3): error TS1128: Declaration or statement expected.
+conflictMarkerJujutsuTrivia3.ts(26,10): error TS2304: Cannot find name 'bar'.
+conflictMarkerJujutsuTrivia3.ts(26,16): error TS1005: ';' expected.
+conflictMarkerJujutsuTrivia3.ts(27,1): error TS1128: Declaration or statement expected.
+
+
+==== conflictMarkerJujutsuTrivia3.ts (132 errors) ====
+    class C {
+      foo() {
+    <<<<<<<<<<< conflict 1 of 2
+    ~~
+!!! error TS1109: Expression expected.
+      ~~
+!!! error TS1109: Expression expected.
+        ~~
+!!! error TS1109: Expression expected.
+          ~~
+!!! error TS1109: Expression expected.
+            ~~
+!!! error TS1109: Expression expected.
+                ~~~~~~~~
+!!! error TS2304: Cannot find name 'conflict'.
+                         ~
+!!! error TS1005: '>' expected.
+                           ~~
+!!! error TS1005: ';' expected.
+                           ~~
+!!! error TS2304: Cannot find name 'of'.
+    %%%%%%%%%%% diff from: puqzxvrm 9be6077e "call c()"
+     ~
+!!! error TS1109: Expression expected.
+      ~
+!!! error TS1109: Expression expected.
+       ~
+!!! error TS1109: Expression expected.
+        ~
+!!! error TS1109: Expression expected.
+         ~
+!!! error TS1109: Expression expected.
+          ~
+!!! error TS1109: Expression expected.
+           ~
+!!! error TS1109: Expression expected.
+            ~
+!!! error TS1109: Expression expected.
+             ~
+!!! error TS1109: Expression expected.
+              ~
+!!! error TS1109: Expression expected.
+                ~~~~
+!!! error TS2304: Cannot find name 'diff'.
+                     ~~~~
+!!! error TS1005: ';' expected.
+                           ~~~~~~~~
+!!! error TS1434: Unexpected keyword or identifier.
+                           ~~~~~~~~
+!!! error TS2304: Cannot find name 'puqzxvrm'.
+                                     ~~~~~~~
+!!! error TS1005: ';' expected.
+                                     ~~~~~~~
+!!! error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+                                     ~~~~~~~
+!!! error TS2304: Cannot find name 'be6077e'.
+    \\\\\\\\\\\        to: lnqukurm 84b1da1d "call a()"
+    ~
+!!! error TS1127: Invalid character.
+     ~
+!!! error TS1127: Invalid character.
+      ~
+!!! error TS1127: Invalid character.
+       ~
+!!! error TS1127: Invalid character.
+        ~
+!!! error TS1127: Invalid character.
+         ~
+!!! error TS1127: Invalid character.
+          ~
+!!! error TS1127: Invalid character.
+           ~
+!!! error TS1127: Invalid character.
+            ~
+!!! error TS1127: Invalid character.
+             ~
+!!! error TS1127: Invalid character.
+              ~
+!!! error TS1127: Invalid character.
+                           ~~~~~~~~
+!!! error TS1434: Unexpected keyword or identifier.
+                           ~~~~~~~~
+!!! error TS2304: Cannot find name 'lnqukurm'.
+                                      ~~~~~~
+!!! error TS1005: ';' expected.
+                                      ~~~~~~
+!!! error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+                                      ~~~~~~
+!!! error TS2304: Cannot find name 'b1da1d'.
+                                             ~~~~~~~~~~
+!!! error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.
+    -     c();
+          ~
+!!! error TS2552: Cannot find name 'c'. Did you mean 'C'?
+!!! related TS2728 conflictMarkerJujutsuTrivia3.ts:1:7: 'C' is declared here.
+    +     a();
+          ~
+!!! error TS2304: Cannot find name 'a'.
+    +++++++++++ uxvuvmmx 71bb7e49 "call b()"
+      ~~
+!!! error TS1109: Expression expected.
+        ~~
+!!! error TS1109: Expression expected.
+          ~~
+!!! error TS1109: Expression expected.
+            ~~
+!!! error TS1109: Expression expected.
+              ~
+!!! error TS1109: Expression expected.
+                ~~~~~~~~
+!!! error TS2304: Cannot find name 'uxvuvmmx'.
+                         ~~
+!!! error TS1005: ';' expected.
+                           ~~~~~~
+!!! error TS1005: ';' expected.
+                           ~~~~~~
+!!! error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+                           ~~~~~~
+!!! error TS2304: Cannot find name 'bb7e49'.
+         b();
+         ~
+!!! error TS2304: Cannot find name 'b'.
+    >>>>>>>>>>> conflict 1 of 2 ends
+    ~
+!!! error TS1109: Expression expected.
+       ~
+!!! error TS1109: Expression expected.
+          ~
+!!! error TS1109: Expression expected.
+             ~
+!!! error TS1109: Expression expected.
+                ~~~~~~~~
+!!! error TS2304: Cannot find name 'conflict'.
+                         ~
+!!! error TS1005: ';' expected.
+                           ~~
+!!! error TS1005: ';' expected.
+                           ~~
+!!! error TS2304: Cannot find name 'of'.
+                                ~~~~
+!!! error TS1005: ';' expected.
+                                ~~~~
+!!! error TS2304: Cannot find name 'ends'.
+      }
+    
+    <<<<<<<<<<< conflict 2 of 2
+    ~~
+!!! error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+      ~~
+!!! error TS1109: Expression expected.
+        ~~
+!!! error TS1109: Expression expected.
+          ~~
+!!! error TS1109: Expression expected.
+            ~~
+!!! error TS1109: Expression expected.
+                ~~~~~~~~
+!!! error TS2304: Cannot find name 'conflict'.
+                         ~
+!!! error TS1005: '>' expected.
+                           ~~
+!!! error TS1005: ';' expected.
+                           ~~
+!!! error TS2304: Cannot find name 'of'.
+    %%%%%%%%%%% diff from: puqzxvrm 9be6077e "call c()"
+     ~
+!!! error TS1109: Expression expected.
+      ~
+!!! error TS1109: Expression expected.
+       ~
+!!! error TS1109: Expression expected.
+        ~
+!!! error TS1109: Expression expected.
+         ~
+!!! error TS1109: Expression expected.
+          ~
+!!! error TS1109: Expression expected.
+           ~
+!!! error TS1109: Expression expected.
+            ~
+!!! error TS1109: Expression expected.
+             ~
+!!! error TS1109: Expression expected.
+              ~
+!!! error TS1109: Expression expected.
+                ~~~~
+!!! error TS2304: Cannot find name 'diff'.
+                     ~~~~
+!!! error TS1005: ';' expected.
+                           ~~~~~~~~
+!!! error TS1434: Unexpected keyword or identifier.
+                           ~~~~~~~~
+!!! error TS2304: Cannot find name 'puqzxvrm'.
+                                     ~~~~~~~
+!!! error TS1005: ';' expected.
+                                     ~~~~~~~
+!!! error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+                                     ~~~~~~~
+!!! error TS2304: Cannot find name 'be6077e'.
+    \\\\\\\\\\\        to: lnqukurm 84b1da1d "call a()"
+    ~
+!!! error TS1127: Invalid character.
+     ~
+!!! error TS1127: Invalid character.
+      ~
+!!! error TS1127: Invalid character.
+       ~
+!!! error TS1127: Invalid character.
+        ~
+!!! error TS1127: Invalid character.
+         ~
+!!! error TS1127: Invalid character.
+          ~
+!!! error TS1127: Invalid character.
+           ~
+!!! error TS1127: Invalid character.
+            ~
+!!! error TS1127: Invalid character.
+             ~
+!!! error TS1127: Invalid character.
+              ~
+!!! error TS1127: Invalid character.
+                           ~~~~~~~~
+!!! error TS1434: Unexpected keyword or identifier.
+                           ~~~~~~~~
+!!! error TS2304: Cannot find name 'lnqukurm'.
+                                      ~~~~~~
+!!! error TS1005: ';' expected.
+                                      ~~~~~~
+!!! error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+                                      ~~~~~~
+!!! error TS2304: Cannot find name 'b1da1d'.
+    +/*
+    +=======
+    +*/
+    +
+    +++++++++++ uxvuvmmx 71bb7e49 "call b()"
+      ~~
+!!! error TS1109: Expression expected.
+        ~~
+!!! error TS1109: Expression expected.
+          ~~
+!!! error TS1109: Expression expected.
+            ~~
+!!! error TS1109: Expression expected.
+              ~
+!!! error TS1109: Expression expected.
+                ~~~~~~~~
+!!! error TS2304: Cannot find name 'uxvuvmmx'.
+                         ~~
+!!! error TS1005: ';' expected.
+                           ~~~~~~
+!!! error TS1005: ';' expected.
+                           ~~~~~~
+!!! error TS1351: An identifier or keyword cannot immediately follow a numeric literal.
+                           ~~~~~~
+!!! error TS2304: Cannot find name 'bb7e49'.
+                                  ~~~~~~~~~~
+!!! error TS2362: The left-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.
+    /*
+    %%%%%%%
+    */
+    
+    >>>>>>>>>>> conflict 2 of 2 ends
+       ~
+!!! error TS1109: Expression expected.
+          ~
+!!! error TS1109: Expression expected.
+             ~
+!!! error TS1109: Expression expected.
+                ~~~~~~~~
+!!! error TS2304: Cannot find name 'conflict'.
+                         ~
+!!! error TS1005: ';' expected.
+                           ~~
+!!! error TS1005: ';' expected.
+                           ~~
+!!! error TS2304: Cannot find name 'of'.
+                                ~~~~
+!!! error TS1005: ';' expected.
+                                ~~~~
+!!! error TS2304: Cannot find name 'ends'.
+      public bar() { }
+      ~~~~~~
+!!! error TS1128: Declaration or statement expected.
+             ~~~
+!!! error TS2304: Cannot find name 'bar'.
+                   ~
+!!! error TS1005: ';' expected.
+    }
+    ~
+!!! error TS1128: Declaration or statement expected.
+    
