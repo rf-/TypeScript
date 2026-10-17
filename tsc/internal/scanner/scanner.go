@@ -2318,22 +2318,6 @@ func GetViableKeywordSuggestions() []string {
 	return result
 }
 
-func couldStartTrivia(text string, pos int) bool {
-	// Keep in sync with skipTrivia
-	switch ch := text[pos]; ch {
-	// Characters that could start normal trivia
-	case '\r', '\n', '\t', '\v', '\f', ' ', '/',
-		// Characters that could start conflict marker trivia
-		'<', '|', '=', '%', '\\', '+', '-', '>':
-		return true
-	case '#':
-		// Only if its the beginning can we have #! trivia
-		return pos == 0
-	default:
-		return ch > maxAsciiCharacter
-	}
-}
-
 type SkipTriviaOptions struct {
 	StopAfterLineBreak bool
 	StopAtComments     bool
@@ -2354,7 +2338,6 @@ func SkipTriviaEx(text string, pos int, options *SkipTriviaOptions) int {
 
 	textLen := len(text)
 	canConsumeStar := false
-	// Keep in sync with couldStartTrivia
 	for {
 		if pos >= textLen {
 			return pos
