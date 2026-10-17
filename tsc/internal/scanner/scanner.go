@@ -617,6 +617,15 @@ func (s *Scanner) Scan() ast.Kind {
 			s.pos++
 			s.token = ast.KindCommaToken
 		case '-':
+			if s.charAt(1) == '-' && isConflictMarkerTrivia(s.text, s.pos) {
+				s.pos = scanConflictMarkerTrivia(s.text, s.pos, s.errorAt)
+				if s.skipTrivia {
+					continue
+				} else {
+					s.token = ast.KindConflictMarkerTrivia
+					return s.token
+				}
+			}
 			next := s.charAt(1)
 			if next == '=' {
 				s.pos += 2
@@ -2315,7 +2324,7 @@ func couldStartTrivia(text string, pos int) bool {
 	// Characters that could start normal trivia
 	case '\r', '\n', '\t', '\v', '\f', ' ', '/',
 		// Characters that could start conflict marker trivia
-		'<', '|', '=', '%', '\\', '+', '>':
+		'<', '|', '=', '%', '\\', '+', '-', '>':
 		return true
 	case '#':
 		// Only if its the beginning can we have #! trivia
@@ -2398,7 +2407,7 @@ func SkipTriviaEx(text string, pos int, options *SkipTriviaOptions) int {
 					continue
 				}
 			}
-		case '<', '|', '=', '%', '\\', '+', '>':
+		case '<', '|', '=', '%', '\\', '+', '-', '>':
 			if isConflictMarkerTrivia(text, pos) {
 				pos = scanConflictMarkerTrivia(text, pos, nil)
 				canConsumeStar = false
@@ -2481,14 +2490,14 @@ func scanConflictMarkerTrivia(text string, pos int, reportError func(diag *diagn
 			ch, size = utf8.DecodeRuneInString(text[pos:])
 		}
 	} else {
-		if ch != '|' && ch != '=' && ch != '%' && ch != '\\' && ch != '+' {
-			panic("Assertion failed: ch must be '|', '=', '%', '\\', or '+'")
+		if ch != '|' && ch != '=' && ch != '%' && ch != '\\' && ch != '+' && ch != '-' {
+			panic("Assertion failed: ch must be '|', '=', '%', '\\', '+', or '-'")
 		}
 		// Consume everything from the start of an intermediate marker to the
 		// start of the next intermediate marker or the overall >>>>>>> marker.
 		for pos < length {
 			currentChar := text[pos]
-			if (currentChar == '=' || currentChar == '%' || currentChar == '\\' || currentChar == '+' || currentChar == '>') && rune(currentChar) != ch && isConflictMarkerTrivia(text, pos) {
+			if (currentChar == '=' || currentChar == '%' || currentChar == '\\' || currentChar == '+' || currentChar == '-' || currentChar == '>') && rune(currentChar) != ch && isConflictMarkerTrivia(text, pos) {
 				break
 			}
 
